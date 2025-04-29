@@ -32,3 +32,10 @@ Telegram bot em Python com objetivo de informar o usuário sobre o time de CS da
 ```bash
   /start
 ```
+
+
+## Recursos Utilizados
+
+- Python (telegram-bot, dotenv, requests)
+- PandaScore API
+- BotFather (telegram)
