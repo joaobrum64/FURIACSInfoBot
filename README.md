@@ -23,11 +23,11 @@ Telegram bot em Python com objetivo de informar o usuário sobre o time de CS da
   python bot.py
 ```
 
-7. Iniciar `index.html` no navegador e clicar em "Acessar Chatbot".
+7. Iniciar `index.html` com o navegador (ou acessar o site hospedado) e clicar em "Acessar Chatbot" (ou acessar diretamente via [Link Telegram](https://t.me/furiachat64bot).
 
 8. Clicar em "Start Bot".
 
-9. Digitar no chat do Telegram:
+9. CLicar em "Start" ou digitar no chat do Telegram:
 
 ```bash
   /start
