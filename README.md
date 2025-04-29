@@ -23,7 +23,7 @@ Telegram bot em Python com objetivo de informar o usuário sobre o time de CS da
   python bot.py
 ```
 
-7. Iniciar `index.html` com o navegador (ou acessar o site hospedado) e clicar em "Acessar Chatbot" (ou acessar diretamente via [Link Telegram](https://t.me/furiachat64bot).
+7. Iniciar `index.html` com o navegador (ou acessar o [link hospedado](http://furiacsinfo.free.nf/?i=1) e clicar em "Acessar Chatbot" (ou acessar diretamente via [Link Telegram](https://t.me/furiachat64bot).
 
 8. Clicar em "Start Bot".
 
